@@ -1,0 +1,11 @@
+﻿Build started...
+1>------ Build started: Project: a1ms3, Configuration: Debug x64 ------
+1>clinic.c
+1>C:\Users\cryst\OneDrive\바탕 화면\Classes\3. Wed IPC144NEE - Gayan\Workshops-master\IPC-Project-master\A1\MS3\clinic.c(416,13): warning C4013: 'strcpy' undefined; assuming extern returning int
+1>C:\Users\cryst\OneDrive\바탕 화면\Classes\3. Wed IPC144NEE - Gayan\Workshops-master\IPC-Project-master\A1\MS3\clinic.c(421,30): warning C4047: '==': 'char [5]' differs in levels of indirection from 'int'
+1>C:\Users\cryst\OneDrive\바탕 화면\Classes\3. Wed IPC144NEE - Gayan\Workshops-master\IPC-Project-master\A1\MS3\clinic.c(427,35): warning C4047: '==': 'char [5]' differs in levels of indirection from 'int'
+1>C:\Users\cryst\OneDrive\바탕 화면\Classes\3. Wed IPC144NEE - Gayan\Workshops-master\IPC-Project-master\A1\MS3\clinic.c(393,9): warning C4101: 'i': unreferenced local variable
+1>C:\Users\cryst\OneDrive\바탕 화면\Classes\3. Wed IPC144NEE - Gayan\Workshops-master\IPC-Project-master\A1\MS3\clinic.c(538,16): warning C4013: 'strcmp' undefined; assuming extern returning int
+1>a1ms3.vcxproj -> C:\Users\cryst\OneDrive\바탕 화면\Classes\3. Wed IPC144NEE - Gayan\Workshops-master\IPC-Project-master\A1\MS3\x64\Debug\a1ms3.exe
+1>Done building project "a1ms3.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
